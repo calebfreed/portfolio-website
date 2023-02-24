@@ -1,0 +1,66 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+
+.align-center{
+  text-align: center;
+}
+
+body{
+  margin-left:0;
+  margin-right: 0;
+}
+
+h1{
+  font-family: sans-serif;
+  color: white;
+  text-shadow: white;
+  scrollbar-shadow-color: red;
+  padding-top: 50px;
+}
+
+header{
+  background: url(images/mountains.jpeg);
+  background-size: 600px;
+  height:250px
+}
+
+nav{
+  text-align: center;
+  padding-bottom: 20px;
+  padding-top: 5ch
+}
+
+.button{
+  display: inline-block;
+  font-family: sans-serif;
+  font-size: 16px;
+  margin: 20px;
+  padding: 6px 12px;
+  border-radius: 6px;
+  background-color: grey;
+  text-decoration: none;
+  border-radius: 4ch;
+  color: white
+}
+
+
+hr{
+  color: grey;
+}
+
+h2{
+  text-align: center;
+  font-family: arial;
+}
+
+main div{
+  margin-left: 50px;
+  margin-right: 50px;
+  background: lightcyan;
+  padding-top: 15px;
+  padding-left: 20px;
+  padding-bottom: 15px;
+  font-family: helvetica;
+}
